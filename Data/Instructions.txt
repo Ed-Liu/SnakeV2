@@ -1,0 +1,25 @@
+Welcome to snake!
+Snake is a classic arcade game. 
+You will play as a hungry, growing snake. 
+Navigate through the map using the arrow keys, eating cherries. 
+Every time the snake eats a cherry, it grows in length. 
+If the snake runs into a wall or itself...GAME OVER. 
+Get as many points as possible before dying.
+Choose your difficulty and game mode to play.
+******************************
+Controls:
+arrowup = move up
+arrowdown = move down
+arrowleft = move left
+arrowright = move right
+esc = pause
+Note: You cannot reverse the direction the snake is moving!
+******************************
+Arcade mode:
+Bombs will start to spawn...They are dangerous if eaten!!!
+Every 7 cherries, a golden cherry will spawn. 
+Eat this and all bombs can't hurt you.
+In fact, they will you give you points and length. 
+You also CANNOT eat yourself in this period of time.
+However, you can still die from hitting the walls.
+The bombs will flash when the effect is ending.

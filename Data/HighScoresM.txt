@@ -1,0 +1,10 @@
+EdwardLIU 42 1
+chris 28 2
+HI 12 3
+LOL 4 4
+Carl 3 5
+player1 0 6
+player2 0 7
+player3 0 8
+player4 0 9
+player5 0 10

@@ -1,0 +1,10 @@
+player1 0 1
+player2 0 2
+player3 0 3
+player4 0 4
+player5 0 5
+player6 0 6
+player7 0 7
+player8 0 8
+player9 0 9
+player10 0 10

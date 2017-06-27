@@ -1,0 +1,10 @@
+Edward 38 1
+PlayerX 1 2
+player1 0 3
+player2 0 4
+player3 0 5
+player4 0 6
+player5 0 7
+player6 0 8
+player7 0 9
+player8 0 10
